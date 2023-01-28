@@ -98,8 +98,7 @@ body {
     cursor: pointer;
     text-transform: uppercase;
     background: #DFD3C3;
-    color: #001c38
-
+    color: #001c38;
     letter-spacing: 0.5px;
     outline: 0;
     -webkit-transition: all 0.3s;
@@ -108,9 +107,6 @@ body {
     border-top-right-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-
-    
-    
 }
 
 .destination .search button:hover {
